@@ -4,7 +4,7 @@ const addBtn = document.getElementById('addTask');
 
 const taskList = document.getElementById('taskList');
 
-
+// Function to add a new task to the list
 function addTask() {
     const taskText = taskInput.value;
 
