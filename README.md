@@ -21,7 +21,6 @@ A simple and responsive To-Do application built with modern frontend technologie
 * HTML5
 * CSS3
 * JavaScript (ES6+)
-* React
 
 ---
 
